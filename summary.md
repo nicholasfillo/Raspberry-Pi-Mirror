@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Nicky Fillo
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+The purpose of this project is to create a smart mirror with a raspberry pi and a display.
 
 # Date Started
-11-16-2000
+02-17-2023
